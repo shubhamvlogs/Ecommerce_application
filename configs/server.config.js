@@ -1,0 +1,5 @@
+// THIS FILE WILL CONTAIN SERVER CONFIGURATION
+
+module.exports = {
+    PORT : 8888
+}
